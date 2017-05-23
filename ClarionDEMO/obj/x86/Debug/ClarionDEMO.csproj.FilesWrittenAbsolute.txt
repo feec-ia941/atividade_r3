@@ -1,0 +1,7 @@
+/home/alciomar/Downloads/Mestrado/Clarion/Projeto/ClarionDEMO/ClarionDEMO/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alciomar/Downloads/Mestrado/Clarion/Projeto/ClarionDEMO/ClarionDEMO/obj/x86/Debug/ClarionDEMO.gtk-gui.gui.stetic
+/home/alciomar/Downloads/Mestrado/Clarion/Projeto/ClarionDEMO/ClarionDEMO/bin/Debug/ClarionDEMO.exe.mdb
+/home/alciomar/Downloads/Mestrado/Clarion/Projeto/ClarionDEMO/ClarionDEMO/bin/Debug/ClarionDEMO.exe
+/home/alciomar/Downloads/Mestrado/Clarion/Projeto/ClarionDEMO/ClarionDEMO/obj/x86/Debug/ClarionDEMO.exe
+/home/alciomar/Downloads/Mestrado/Clarion/Projeto/ClarionDEMO/ClarionDEMO/obj/x86/Debug/ClarionDEMO.exe.mdb
+/home/alciomar/Downloads/Mestrado/Clarion/Projeto/ClarionDEMO/ClarionDEMO/bin/Debug/ClarionLibrary.dll
